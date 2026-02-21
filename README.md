@@ -6,23 +6,7 @@ I’ve worked on everything from machine learning applications to full-stack pla
 
 I care about clean architecture, thoughtful design, and continuous improvement.
 I enjoy learning fast, building well, and growing alongside great teams. 🚀
-<!-- 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Portfolio Website](https://img.shields.io/badge/-Portfolio%20Website-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)]()
-> The coolest portfolio website you've ever seen. Coming soon!
-
-[![StorageBox](https://img.shields.io/badge/-Storage%20Box-%231a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://storagebox.app/)
-> Leading the **frontend development** for **StorageBox**, an inventory and order management system. Built with **TypeScript**, **Next.js**, **React**, **MaterialUI**, **Django**, and **PostgreSQL**, the platform focuses on delivering a seamless user experience for managing inventory and orders.
-
-[![Hack Canada](https://img.shields.io/badge/-Hack%20Canada-%231a1a1a?style=for-the-badge&logo=amazonaws&logoColor=white)](https://hackcanada.org/)
-> Leading and managing the development of a **hackathon platform** for Hack Canada, built with **Next.js**, **TypeScript**, **AWS** and more. Designed to handle thousands of users with seamless scalability.
-
-[![CTRL+HACK+DEL](https://img.shields.io/badge/-Ctrl%20Hack%20Del-%231a1a1a?style=for-the-badge&logo=amazonaws&logoColor=white)](https://ctrlhackdel.com)
-> Leading and managing the development of a **hackathon platform** for Ctrl+Hack+Del, York University's largest hackathon. Built with **Next.js**, **TypeScript**, **AWS** and more. Designed for scalability for thousands of users.
-
-[![Full-Stack Social Media Platform](https://img.shields.io/badge/-Archive%20Our%20Youth-%231a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://archiveouryouth.ca)
-> Maintaining and expanding the **full-stack platform** for youth to share their experiences. Built with **Next.js**, **TypeScript**, **Ckerk**, **Uploadthing**, MongoDB and more. Designed and developed from the ground up for the youth research organization-Young Lives Research Lab. -->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -64,8 +48,6 @@ I enjoy learning fast, building well, and growing alongside great teams. 🚀
 
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
-<!-- ![Araf's GitHub stats](https://github-readme-stats.vercel.app/api?username=araf821&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araf821&theme=react&hide_border=true&layout=compact&langs_count=8) -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=araf821&theme=react&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Brian1nONLY&theme=react&hide_border=true)
 
-[](https://komarev.com/ghpvc/?username=araf821&style=pixel)
+[](https://komarev.com/ghpvc/?username=Brian1nONLY&style=pixel)
