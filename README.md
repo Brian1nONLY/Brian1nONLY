@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Brian
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Brian 👋
 
 I’m a Computer Science student and Software Developer Intern who genuinely loves building — not just shipping features, but crafting systems that solve real problems and feel good to use.
 
